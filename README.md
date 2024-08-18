@@ -46,7 +46,7 @@ Run the Jupyter Notebook: Open the Jupyter Notebook `ml_dna.ipynb` to explore th
 Execute the Script: If you prefer running a script, execute `ml_dna.py` to perform the entire workflow.
 
 ## Data
-The dataset used in this project consists of DNA sequences with associated labels. The data is preprocessed to handle missing values and normalize features. Ensure that the data files (human.txt, chimpanzee.txt, dog.txt) are located in the correct directory as specified in the script.
+The dataset can be found from [Kaggle](https://www.kaggle.com/datasets/nageshsingh/dna-sequence-dataset) used in this project consists of DNA sequences with associated labels. The data is preprocessed to handle missing values and normalize features. Ensure that the data files (human.txt, chimpanzee.txt, dog.txt) are located in the correct directory as specified in the script.
 
 ## Modeling
 The project explores various machine learning models, including:
