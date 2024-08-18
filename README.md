@@ -37,7 +37,7 @@ pip install numpy pandas scikit-learn imbalanced-learn matplotlib seaborn
 Clone the Repository:
 
 ```bash
-git clone https://github.com/montahac/dna-sequencing-ml.git
+git clone [https://github.com/montahac/dna-sequencing-ml.git](https://github.com/montahac/dna_sequencing_ml.git)
 cd dna-sequencing-ml
 ```
 
